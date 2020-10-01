@@ -1,4 +1,4 @@
-print("Hey dude! I love calculating;)")
+print("Hey dude! I love calculating;)") #this is a python based calculator
 print\
 ('1.Add; 2.Substract; 3.Multiply or 4.Divide?')
 cal = (input("What do you want me to do: "))
